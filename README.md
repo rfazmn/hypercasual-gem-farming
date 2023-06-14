@@ -1,5 +1,5 @@
 # hypercasual-gem-farming
-Hypercasual gem farming prototype game
+Hypercasual gem farming prototype game\
 Recommended resolution setting in game tab: 1080 x 1920
 
 ![showcase](https://github.com/rfazmn/hypercasual-gem-farming/assets/32778959/36b0cb3f-dfd5-4527-bdee-89ae1660d9c2)
